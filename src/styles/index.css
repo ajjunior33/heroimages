@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "GraphikMedium";
+  src: url("../assets/fonts/Graphik/GraphikMedium.otf");
+}
+@font-face {
+  font-family: "GraphikSemiBold";
+  src: url("../assets/fonts/Graphik/GraphikSemibold.otf");
+}
+@font-face {
+  font-family: "AirbnbCerealBook";
+  src: url("../assets/fonts/airbnb-cereal/AirbnbCerealBook.woff");
+}
+@font-face {
+  font-family: "AirbnbCerealBold";
+  src: url("../assets/fonts/airbnb-cereal/AirbnbCerealBold.woff");
+}
+@font-face {
+  font-family: "AirbnbCerealMedium";
+  src: url("../assets/fonts/airbnb-cereal/AirbnbCerealMedium.woff");
+}
